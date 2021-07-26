@@ -1,0 +1,16 @@
+.boost {
+    text-align: center;
+    padding: 5.25rem 0 4.25rem;
+
+    background-color: var(--fc-violet);
+    background-image: url(../images/bg-boost-mobile.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.boost__title {
+    font-size: 1.6rem;
+    color: var(--fc-light);
+    font-weight: 600;
+}

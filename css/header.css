@@ -1,0 +1,26 @@
+#header {
+    padding: 1.5rem;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#header section {
+    display: flex;
+    align-items: center;
+}
+
+.header__links {
+    margin-left: 2rem;
+}
+
+.header__link {
+    color: var(--fc-medium);
+    margin: 0 1rem;
+}
+
+.header__btn {
+    text-align: center;
+    width: fit-content;
+    padding: .7rem 1rem;
+}
