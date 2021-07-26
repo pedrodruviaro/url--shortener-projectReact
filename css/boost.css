@@ -14,3 +14,10 @@
     color: var(--fc-light);
     font-weight: 600;
 }
+
+@media (min-width: 1000px) {
+    .boost {
+        background-image: url(../images/bg-boost-desktop.svg);
+        background-size: cover;
+    }
+}
